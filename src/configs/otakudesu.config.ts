@@ -1,5 +1,5 @@
 const otakudesuConfig: IAnimeConfig = {
-  baseUrl: "https://otakudesu.best",
+  baseUrl: "https://otakudesu.cloud",
 };
 
 export default otakudesuConfig;
