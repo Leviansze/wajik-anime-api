@@ -1,1 +1,1 @@
-const otakudesuConfig = { baseUrl: "https://otakudesu.blog" }; export default otakudesuConfig;
+const otakudesuConfig = { baseUrl: "https://otakudesu.cloud" }; export default otakudesuConfig;
